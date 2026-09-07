@@ -1,0 +1,45 @@
+commit d6cb12864ce9f149ff78de506f56390ead647f64
+Merge: 37a6bee 7583f02
+Author: Oscar Kim <oscarkim32@gmail.com>
+Date:   Sun Sep 6 19:05:16 2026 -0700
+
+    Resolve merge conflict: keep both food and game divs
+
+commit 7583f0283cf71d446c953fd31efcab05a3e83789
+Author: Oscar Kim <oscarkim32@gmail.com>
+Date:   Sun Sep 6 19:04:23 2026 -0700
+
+    Add favorite movie div on index-fix
+
+commit 37a6beebd327c96d9cd1d2ceebcd80857a16b686
+Author: Oscar Kim <oscarkim32@gmail.com>
+Date:   Sun Sep 6 19:03:41 2026 -0700
+
+    Add favorite food div on main
+
+commit 9c6fe3059f9bdbc5562c5cfe30efaf9fdfa9d8a6
+Author: Oscar Kim <oscarkim32@gmail.com>
+Date:   Sun Sep 6 19:02:14 2026 -0700
+
+    Add README describing the repo
+
+commit 0c6fce7653d73dac87ce316724494725998f6ab5
+Merge: 1d2bfc0 e360905
+Author: Oscar Kim <40447778+okim1996@users.noreply.github.com>
+Date:   Sun Sep 6 18:58:48 2026 -0700
+
+    Merge pull request #1 from okim1996/info-fill
+    
+    Fill in the two blanks in index.html
+
+commit e3609059d58b239bda563b9fa7da143636a2b6f8
+Author: Oscar Kim <oscarkim32@gmail.com>
+Date:   Sun Sep 6 18:54:11 2026 -0700
+
+    Fill in the two blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
